@@ -140,7 +140,7 @@ minikube start --gpus=all
 
 ```bash
 cd kuberflow/
-python3 run\_training.py --env-setup
+python3 run_training.py --env-setup
 ```
 
 ## Deploying on aws cluster with eksctl
